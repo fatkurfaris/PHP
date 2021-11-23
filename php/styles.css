@@ -1,0 +1,154 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-size: 120%;
+	background: #F8F8FF;
+}
+
+.head{
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: black;
+	text-align: center;
+	border:1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+
+.header{
+	width: 30%;
+	margin: 50px auto 0px;
+	color:;
+	background: #5F9EA0;
+	text-align: center;
+	border:1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+
+form {
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 5px solid #B0C4DE;
+	background: #5F9EA0;
+	border-radius: 10px 10px 10px 10px;
+
+}
+
+.dua	
+{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 5px solid white ;
+	background: green;
+	border-radius: 10px 10px 10px 10px;
+
+}
+
+.input-group{
+	margin: 10px 0px 10px 0px;
+}
+
+.input-group label{
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+
+.input-group input{
+	height: 55px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 15px;
+	border-bottom-left-radius: : 151px;
+	border: 5px ;
+}
+
+.input-group2 input{
+	height: 25px;
+	width: 93%;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 15px;
+	border-bottom-left-radius: : 151px;
+	border: 5px ;
+	font-style: italic;
+
+}
+
+.btn{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border-radius: 15px;
+}
+
+.error {
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #a94442;
+	background: #f2dede;
+	border-radius: 5px;
+	text-align: left;
+}
+
+.back{
+	background: #5F9EA0;	
+}
+
+.jarak{
+	padding-top: 11rem;
+}
+
+.jarak2{
+	padding-bottom: 21rem;
+}
+
+.jarak3{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.jarak4{
+	padding-bottom: 5rem;
+	padding-top: 10rem;
+}
+
+.tulisan{
+	font-weight: 999;
+	 font-size: 3.25rem;
+  font-weight: 900;
+  line-height: 3.25rem;
+  margin-bottom: 2rem;
+}
+
+.tulisan2{
+	font-weight: 90;
+	  color: white;
+}
+
+.tulisan3{
+	color: white;
+	padding-top: 1rem;
+	padding-bottom: 2rem;
+}
+
+.tulisan4{
+	color: blue;
+}
+
+.background2{
+	background: #198854;
+}
