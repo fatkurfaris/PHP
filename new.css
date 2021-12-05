@@ -1,0 +1,17 @@
+.atas {
+	width: 100%;
+	margin: 50px auto 0px;
+	color: white;
+	background: black;
+	text-align: center;
+	border:2px solid #B0C4DE;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+	padding-bottom: 120px;
+}
+
+.tulisan{
+	padding: 10px ;
+	border:1px solid white;
+	margin: 0px auto;
+}
