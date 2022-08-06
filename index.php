@@ -1,23 +1,20 @@
 <?php
-    
-class Coba{
 
+class Produk
+{
 }
 
 
-$a = new Coba();
-$b = new Coba();
-$c = new Coba();
-
-var_dump($a);
-var_dump($b);
-var_dump($c);
+$produk1 = new Produk();
+$produk2 = new Produk();
 
 ?>
 
 <html>
-    <body>
-<!-- <h1>Testing</h1> -->
 
-    </body>
+<body>
+    <!-- <h1>Testing</h1> -->
+
+</body>
+
 </html>
