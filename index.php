@@ -1,38 +1,34 @@
 <?php
 
-// class ContohStatic
-// {
-//     public static $angka = 1;
+define('NAMA', 'FATKUR RIZAL ROCHMADINA PUTRA');
 
-//     public static function halo()
-//     {
-//         return "halo " .  self::$angka . "kali";
-//     }
+echo NAMA;
+
+const UMUR = 21;
+echo UMUR, "<hr>";
+
+
+
+// class Coba
+// {
+//     const NAMA = 'FATKUR ';
 // }
 
-// echo ContohStatic::$angka;
-// echo "<br>";
-// echo ContohStatic::halo();
-// echo "<hr>";
+// echo Coba::NAMA;
 
-class Contoh
+// echo __FILE__;
+
+// function Coba()
+// {
+//     return __FUNCTION__;
+// }
+
+// echo Coba();
+
+class Coba
 {
-    public static $angka = 1;
-
-    public function halo()
-    {
-        return "halo" . self::$angka++ . "kali.";
-    }
+    public $kelas = __CLASS__;
 }
 
-$obj = new Contoh;
-echo $obj->halo();
-echo $obj->halo();
-echo $obj->halo();
-
-echo "<hr>";
-
-$obj2 = new Contoh;
-echo $obj2->halo();
-echo $obj2->halo();
-echo $obj2->halo();
+$obj = new Coba;
+echo $obj->kelas;
