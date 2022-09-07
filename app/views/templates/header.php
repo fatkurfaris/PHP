@@ -26,6 +26,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="<?= HOME; ?>/About">About</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="<?= HOME; ?>/Mahasiswa">Mahasiswa</a>
+                    </li>
                 </ul>
             </div>
         </div>
