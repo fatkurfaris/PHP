@@ -3,3 +3,6 @@ php artisan migrate -> untuk upload table di database
 php artisan migrate:rollback -> untuk drop table di database
 
 php artisan tinker-> untuk komunikasi langsung dengan database melalui terminal
+
+
+
