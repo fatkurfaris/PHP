@@ -4,5 +4,7 @@ php artisan migrate:rollback -> untuk drop table di database
 
 php artisan tinker-> untuk komunikasi langsung dengan database melalui terminal
 
+php artisan db:seed -> untuk menambahkan data database
 
+php artisan migrate::fresh --seed
 
